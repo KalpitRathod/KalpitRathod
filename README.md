@@ -1,7 +1,5 @@
 # Hi there 👋, I'm Kalpit Rathod
 
-<img align="right" src="https://media.licdn.com/dms/image/v2/D5603AQGi9FH9SKbQUg/profile-displayphoto-scale_400_400/B56Zo04vu7G4Ak-/0/1761823884071?e=1776902400&v=beta&t=REL7saItpsBLmTzgELYqbkiefajm8p2at6aBSQQVh7k" alt="Kalpit Rathod" width="180" />
-
 I'm a passionate developer with a strong focus on **Systems Programming**, **Linux Environments**, and **Machine Learning**. I enjoy diving deep into how things work under the hood, from writing device drivers to experimenting with standard ML models.
 
 ### 👨‍💻 About Me
