@@ -37,5 +37,9 @@ I'm a passionate developer with a strong focus on **Systems Programming**, **Lin
 ### 📈 GitHub Stats
 
 <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KalpitRathod&theme=react-dark" alt="Kalpit's GitHub Activity Graph" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KalpitRathod&theme=radium&hide_border=true" alt="Kalpit's GitHub Streak">
 </p>
