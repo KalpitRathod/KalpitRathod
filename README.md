@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi there 👋, I'm Kalpit Rathod
 
-<!--
-**KalpitRathod/KalpitRathod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" src="https://media.licdn.com/dms/image/v2/D5603AQGi9FH9SKbQUg/profile-displayphoto-scale_400_400/B56Zo04vu7G4Ak-/0/1761823884071?e=1776902400&v=beta&t=REL7saItpsBLmTzgELYqbkiefajm8p2at6aBSQQVh7k" alt="Kalpit Rathod" width="180" />
 
-Here are some ideas to get you started:
+I'm a passionate developer with a strong focus on **Systems Programming**, **Linux Environments**, and **Machine Learning**. I enjoy diving deep into how things work under the hood, from writing device drivers to experimenting with standard ML models.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+
+- 🔭 I’m currently working on **Linux Device Drivers (LDD)** and **Advanced Programming in the UNIX Environment (APUE)**.
+- 🌱 I’m currently expanding my knowledge in **Machine Learning** using Python.
+- ⚙️ I regularly code in **C**, **C++**, and **Python**.
+- 💬 Ask me about **C/C++ concepts, UNIX systems, and Python programming**.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kalpitrathod/) or [Instagram](https://www.instagram.com/k4lpit)
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+**Languages:** ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+**Systems & Domains:** ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+---
+
+### 📂 Featured Projects & Learning Repos
+
+* **[LDD](https://github.com/kalpitrathod/LDD)**: Exploring and building Linux Device Drivers.
+* **[apue-code](https://github.com/kalpitrathod/apue-code)**: Hands-on implementation of Advanced Programming in the UNIX Environment.
+* **[stdML](https://github.com/kalpitrathod/stdML)**: Standard Machine Learning codebase in Python.
+* **[stdC](https://github.com/kalpitrathod/stdC) / [stdCPP](https://github.com/kalpitrathod/stdCPP) / [stdPython](https://github.com/kalpitrathod/stdPython)**: My personal standard code references and implementations for core languages.
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kalpitrathod&show_icons=true&theme=radium" alt="Kalpit's GitHub Stats" />
+</p>
