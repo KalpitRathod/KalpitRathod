@@ -7,7 +7,6 @@ I'm a passionate developer with a strong focus on **Systems Programming**, **Lin
 - 🔭 I’m currently working on **Linux Device Drivers (LDD)** and **Advanced Programming in the UNIX Environment (APUE)**.
 - 🌱 I’m currently expanding my knowledge in **Machine Learning** using Python.
 - ⚙️ I regularly code in **C**, **C++**, and **Python**.
-- 💬 Ask me about **C/C++ concepts, UNIX systems, and Python programming**.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kalpitrathod/) or [Instagram](https://www.instagram.com/k4lpit)
 
 ---
